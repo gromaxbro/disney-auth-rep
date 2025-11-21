@@ -1,9 +1,9 @@
 # Disney-Account-Checker
 
-Disney+ account checker 👀, fast! Proxy required (free proxies work!)
+Disney+ sub viewer 👀, fast! Proxy required (free proxies work!)
 
 ## INSTALL THE IMPORTANT MODULES
-Run `pip install requirements.txt`.
+Run `pip install -r requirements.txt`.
 
 ## SETTING UP PROXY
 Put your proxies in `valid.txt`.
